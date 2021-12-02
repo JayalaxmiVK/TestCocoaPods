@@ -1,0 +1,22 @@
+{
+  "name": "TestCocoaPods",
+  "version": "0.1.0",
+  "summary": "A short description of TestCocoaPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jayalaxmivk@gmail.com/TestCocoaPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jayalaxmivk@gmail.com": "jayalaxmivk@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jayalaxmivk@gmail.com/TestCocoaPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestCocoaPods/Classes/**/*"
+}
